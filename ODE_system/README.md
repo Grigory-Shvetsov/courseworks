@@ -17,7 +17,9 @@ Wolfram Mathematica.*
 
 <table>
 <tr>
-<td><img src="Презентация/p1_2_1.png" alt="Фотография 1"> </td>
- <td><img src="Презентация/p1_2_2.png" alt="Фотография 2" ></td>
+<td><img src="presentation/p1_2_1.png" alt="Фотография 1"> </td>
+ <td><img src="presentation/p1_2_2.png" alt="Фотография 2" ></td>
+ <td><img src="presentation/p6.png" alt="Фотография 1"> </td>
+ <td><img src="presentation/p66.png" alt="Фотография 2" ></td>
 </tr>
 </table>
